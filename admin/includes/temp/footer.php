@@ -32,7 +32,7 @@
                 </div>
             </div>
             <div class="footer-icon">
-                جميع الحقوق محفوظة وزارة الداخلية السودانية &copy; <?php echo date("Y"); ?>
+                Create By Ezzo Service &copy; <?php echo date("Y"); ?>
             </div>
         </div>
     </footer>
